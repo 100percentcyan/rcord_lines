@@ -1,0 +1,5 @@
+
+NUMBER_OF_LINES=$1
+FILE=$2
+LINE=$(tail -n $NUMBER_OF_LINES $HISTFILE)
+echo "$LINE\n" >> $FILE
