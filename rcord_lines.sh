@@ -1,5 +1,8 @@
 
 NUMBER_OF_LINES=$1
 FILE=$2
-LINE=$(tail -n $NUMBER_OF_LINES $HISTFILE)
-echo "$LINE\n" >> $FILE
+LINES=$(tail -n $NUMBER_OF_LINES $HISTFILE)
+CAT_FACE="(,,◕　⋏　◕,,)"
+echo "$LINES" \ >> $FILE
+echo "Success! Have a good day!! $CAT_FACE"
+alias READ="echo '$FILE $CAT_FACE:' && cat $FILE"
