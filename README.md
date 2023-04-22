@@ -15,3 +15,5 @@
 #### 5.This is optional but you can read your file by simply just typing 'READ' in your terminal
 ![Step 5](E:/Users/User/Pictures/Step 5.png)
 ##### Download rcord_lines.sh to get started! 
+
+![Markdown symbol](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
