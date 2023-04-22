@@ -5,7 +5,8 @@
 ### How this works:
 
 #### 1.Create your file
-![Step 1](file://Pictures/Step 1.png)
+![image](https://user-images.githubusercontent.com/109283363/233767950-18624df9-d266-4220-bab8-e111011ca713.png)
+
 #### 2.Write the contents in your terminal (make sure to keep track of the number of lines your writing)
 ![Step 2](E:/Users/User/Pictures/Step 2.png)
 #### 3.Exit the terminal
