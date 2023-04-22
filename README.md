@@ -5,7 +5,7 @@
 ### How this works:
 
 #### 1.Create your file
-![Step1](E:/Users/User/Pictures/'Step 1.png')
+![Step 1](E:\Users\User\Pictures\Step 1.png)
 #### 2.Write the contents in your terminal (make sure to keep track of the number of lines your writing)
 ![Step 2](E:/Users/User/Pictures/Step 2.png)
 #### 3.Exit the terminal
@@ -15,5 +15,3 @@
 #### 5.This is optional but you can read your file by simply just typing 'READ' in your terminal
 ![Step 5](E:/Users/User/Pictures/Step 5.png)
 ##### Download rcord_lines.sh to get started! 
-
-![Markdown symbol](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
