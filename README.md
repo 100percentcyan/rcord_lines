@@ -5,7 +5,7 @@
 ### How this works:
 
 #### 1.Create your file
-![Step 1](E:/Users/User/Pictures/'Step 1.png')
+![Step1](E:/Users/User/Pictures/'Step 1.png')
 #### 2.Write the contents in your terminal (make sure to keep track of the number of lines your writing)
 ![Step 2](E:/Users/User/Pictures/Step 2.png)
 #### 3.Exit the terminal
