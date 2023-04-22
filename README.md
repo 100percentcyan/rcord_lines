@@ -4,9 +4,14 @@
 
 ### How this works:
 
-#### 1.Write commands in the terminal (make sure to track how many commands you have written)
-#### 2.Exit the terminal
-#### 3.Write '. rcord_lines.sh NUMBER_OF_COMMANDS_YOU_HAVE_WRITTEN YOUR_FILE'
-#### 4.This is optional but you can read your file by simple typing READ in the terminal
-
+#### 1.Create your file
+![Step 1](E:/Users/User/Pictures/Step 1.png)
+#### 2.Write the contents in your terminal (make sure to keep track of the number of lines your writing)
+![Step 2](E:/Users/User/Pictures/Step 2.png)
+#### 3.Exit the terminal
+![Step 3](E:/Users/User/Pictures/Step 3.png)
+#### 4.Write '. rcord.sh THE_NUMBER_OF_LINES_YOU_WROTE YOUR_FILE'
+![Step 4](E:/Users/User/Pictures/Step 4.png)
+#### 5.This is optional but you can read your file by simply just typing 'READ' in your terminal
+![Step 5](E:/Users/User/Pictures/Step 5.png)
 ##### Download rcord_lines.sh to get started! 
